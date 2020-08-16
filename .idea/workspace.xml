@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd0892d-fd18-4d50-824b-31ad42c19b0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gBZ95jrVUXBMXq4dBkfSCegeDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -39,5 +56,40 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd0892d-fd18-4d50-824b-31ad42c19b0c" name="Default Changelist" comment="" />
+      <created>1597589791692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597589791692</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create project and repository.">
+      <created>1597589858595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597589858595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project and repository." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create project and repository." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="903" y="130" key="CommitChangelistDialog2" timestamp="1597589857834">
+      <screen x="0" y="23" width="2560" height="1009" />
+    </state>
+    <state x="903" y="130" key="CommitChangelistDialog2/0.23.2560.1009@0.23.2560.1009" timestamp="1597589857834" />
+    <state x="100" y="123" width="2360" height="809" key="DiffContextDialog" timestamp="1597590073373">
+      <screen x="0" y="23" width="2560" height="1009" />
+    </state>
+    <state x="100" y="123" width="2360" height="809" key="DiffContextDialog/0.23.2560.1009@0.23.2560.1009" timestamp="1597590073373" />
   </component>
 </project>
