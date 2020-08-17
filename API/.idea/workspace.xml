@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd0892d-fd18-4d50-824b-31ad42c19b0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,6 +364,10 @@
       <screen x="0" y="23" width="2560" height="1009" />
     </state>
     <state x="1081" y="312" key="chooseDestDirectoryDialog/0.23.2560.1009@0.23.2560.1009" timestamp="1597623545018" />
+    <state x="389" y="141" key="new project wizard" timestamp="1597675373242">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="389" y="141" key="new project wizard/0.23.1920.1009@0.23.1920.1009" timestamp="1597675373242" />
     <state x="945" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1597600576342">
       <screen x="0" y="23" width="2560" height="1009" />
     </state>
