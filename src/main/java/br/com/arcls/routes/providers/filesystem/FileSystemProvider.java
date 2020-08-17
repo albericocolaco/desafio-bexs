@@ -45,7 +45,7 @@ public class FileSystemProvider {
     public void writeFile(final String filePath, final List<String> lines){
         try {
             final String brakeLine = "\n";
-            FileWriter fw = new FileWriter(filePath,true);
+            final FileWriter fw = new FileWriter(filePath,true);
             lines.forEach(line -> {
                 try {
                     fw.write(String.format("%s%s", line, brakeLine));
