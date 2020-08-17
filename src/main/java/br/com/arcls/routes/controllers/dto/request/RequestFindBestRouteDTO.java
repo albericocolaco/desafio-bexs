@@ -1,33 +1,15 @@
 package br.com.arcls.routes.controllers.dto.request;
 
-import java.io.Serializable;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 
-public class RequestFindBestRouteDTO implements Serializable {
-
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class RequestFindBestRouteDTO{
     private String from;
     private String to;
-
-    public RequestFindBestRouteDTO() {
-    }
-
-    public RequestFindBestRouteDTO(String from, String to) {
-        this.from = from;
-        this.to = to;
-    }
-
-    public String getFrom() {
-        return from;
-    }
-
-    public void setFrom(String from) {
-        this.from = from;
-    }
-
-    public String getTo() {
-        return to;
-    }
-
-    public void setTo(String to) {
-        this.to = to;
-    }
 }
