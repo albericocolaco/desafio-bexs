@@ -1,0 +1,5 @@
+br/com/arcls/routes/providers/filesystem/FileSystemProviderUnitTest.class
+br/com/arcls/routes/controllers/TravelRoutesControllerUnitTest.class
+br/com/arcls/routes/usecases/AddNewRouteUnitTest.class
+br/com/arcls/routes/RoutesApplicationTests.class
+br/com/arcls/routes/usecases/FindBestRouteUnitTest.class

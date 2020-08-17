@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.arcls.routes.RoutesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.343 s - in br.com.arcls.routes.RoutesApplicationTests
